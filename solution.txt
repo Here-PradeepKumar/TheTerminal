@@ -1,0 +1,71 @@
+Manoj, a man of wisdom and grace,
+His presence lights up any space.
+With a heart that's kind and true,
+He's a friend to all who are in need too.
+
+A smile that brightens up the day,
+His laughter is infectious in every way.
+With a soul that's pure and gentle,
+He spreads joy wherever he may venture.
+
+In times of trouble, he's a beacon of hope,
+Guiding others to find a way to cope.
+His strength and courage never falters,
+A pillar of strength for all that matters.
+
+So here's to Manoj, a friend so dear,
+His presence is always a treasure to cheer.
+May his days be filled with love and joy,
+A man whose kindness will never cloy.
+
+
+
+
+
+
+
+மனோஜ், ஞானம் மற்றும் மரியாதையுடைய ஆண்,
+அவரது உபஸ்திதி எந்த இடத்திலும் ஒளியிலும் அடைகின்றது.
+அன்புள்ள இதயத்தோடே ஒரு சித்தமான உயிர்,
+அவர் உதவி தேவையானவர்கள் எல்லாரும் அணிவர்.
+
+ஒளி பெருகும் சசிகளுடன்,
+அவர் சிரிக்க அடிப்படையது எவ்வாறு.
+ஈவாழ் முகமுடன்,
+எவ்வாறு சுகம் பரவுவதுறு.
+
+பிரச்சனைகளில், வலிமையுடைய கடல்கடந்தவன்,
+பிறர் ஒரு வழியைக்கொண்டு செல்ல வழிகற்காட்டுவான்.
+அவரது வலிமையும் முன்னெரியானால்,
+அவனறியும் நற்படுத்தம்.
+
+ஆனால் இதோ, மனோஜ் என்று ஒரு நண்பன் என்று உலகிற் பறக்கும்,
+அவரது இருப்பு எல்லாம் மகிழ்ச்சியான தொடர்வழியாக உள்ளது.
+அவரது நாள்வாழ்த்துக்கு அன்பு மற்றும் மகிழ்ச்சியுடன் அனைத்து சந்தோஷமிருக்க வேண்டும்,
+அனபுள்ள மனிதன் மூத்த அன்பைக் கொள்ளும் மனிதன், அதை மாற்றமென்ற மனிதர்.
+
+
+
+
+
+
+
+import java.util.Scanner;
+
+public class StringInOut {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        
+        System.out.print("Enter a string: ");
+        String userInput = input.nextLine();
+        
+        System.out.println("You entered: " + userInput);
+    }
+}
+
+
+
+
+
+
+
